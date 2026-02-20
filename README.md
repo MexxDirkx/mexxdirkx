@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![NowPage](https://nowpage.co/api/badge/mexxdirkx.svg)](https://nowpage.co/u/mexxdirkx)
