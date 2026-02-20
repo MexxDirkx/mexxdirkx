@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![NowPage](https://nowpage.co/api/badge/mexxdirkx.svg/)](https://nowpage.co/u/mexxdirkx)
+[![NowPage](https://nowpage.co/api/badge/mexxdirkx.svg)](https://nowpage.co/u/mexxdirkx)
